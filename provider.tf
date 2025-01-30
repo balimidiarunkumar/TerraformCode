@@ -1,9 +1,5 @@
 provider "azurerm" {
-  arun {
+  features {
     
   }
-  client_id = "XXXXXXX"
-  client_secret = "XXXXXXXX"
-  tenant_id = "XXXXXXX"
-  subscription_id = "XXXXXXX"
 }
