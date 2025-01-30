@@ -1,5 +1,5 @@
 provider "azurerm" {
-  arun {
+  features {
     
   }
 }
